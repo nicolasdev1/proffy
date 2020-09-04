@@ -1,2 +1,2 @@
 # Proffy
-Back-end, Front-end e Mobile de uma ideia fantástica junto a Rocketseat na NLW#2.
+Back-end, Front-end and Mobile of a fantastic idea with @Rocketseat at NextLevelWeek#1.
